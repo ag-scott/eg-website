@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  font-family: Garamond, 'Times New Roman',  sans-serif;
+  font-family: 'Garamond',  sans-serif;
 }
 
 header{
@@ -41,11 +41,19 @@ a:hover{
   color: #A534A0;
 }
 
+p{
+  font-family: "Century Gothic Condensed", "Garamond", sans-serif;
+}
+
 p.caption{
   color: #999999;
   font-style: italic;
   margin-top: 0;
   text-align: center;
+}
+
+li{
+  font-family: "Century Gothic Condensed", "Garamond", sans-serif;
 }
 
 footer{
